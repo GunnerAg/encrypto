@@ -1,0 +1,13 @@
+.container{
+    color:rgb(255, 0, 106);
+    margin-top:10vh;
+    display:flex; 
+    font-size:16px; 
+    flex-wrap:wrap;
+    word-break: break-word;
+}
+.textStyle{
+    font-size: 25px;
+    font-family:'Ubuntu Mono', monospace;
+}
+
